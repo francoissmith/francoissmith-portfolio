@@ -34,7 +34,7 @@ export default {
           title: 'Blue Skies',
           description: 'My final year project, a Solar Services platform. I held the role of UI Engineer within the development team.',
           image: 'https://reviron.s3.af-south-1.amazonaws.com/images/Blue Skies.jpg',
-          link: 'https://blue-skies.netlify.app/',
+          link: 'https://github.com/COS301-SE-2023/Blue-Skies',
           logo: 'https://reviron.s3.af-south-1.amazonaws.com/images/blue-skies-logo.svg'
         },
         {
