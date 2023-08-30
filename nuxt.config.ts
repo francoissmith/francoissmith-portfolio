@@ -6,4 +6,12 @@ export default defineNuxtConfig({
   ],
   modules: ['@nuxtjs/tailwindcss'],
   srcDir: 'src',
+  build: {
+    analyze: true,
+  },
+  generate: {
+    routes: '/',
+  },
+  components: true,
+
 });
