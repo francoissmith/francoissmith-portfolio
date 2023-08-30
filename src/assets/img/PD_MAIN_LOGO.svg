@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 1500 1500">
+  <defs>
+    <style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:#fff;}</style>
+    <linearGradient id="linear-gradient" x1="749.8" y1="1488.84" x2="749.8" y2="10.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e0285"></stop>
+      <stop offset="1" stop-color="#9522d8"></stop>
+    </linearGradient>
+  </defs>
+  <circle class="cls-1" cx="749.8" cy="749.84" r="739"></circle>
+  <path class="cls-2" d="M951,867.89V719.46L686.24,872.14V1019Z"></path>
+  <path class="cls-2" d="M813.21,479.45,548,632.77V778.48L813.21,627.36Z"></path>
+  <path class="cls-2" d="M1090,631.83,825.31,480.56V627.92L1090,780.15Z"></path>
+  <path class="cls-2" d="M409.55,866.77l263,151.43V871.92l-263-150.14Z"></path>
+  <path class="cls-2" d="M808.49,470.31,686.83,401.06V539.53Z"></path>
+  <path class="cls-2" d="M813,639.52,691.37,709.89,813,780Z"></path>
+  <path class="cls-2" d="M811.53,959.79,691.25,1029.2l120.28,69.41Z"></path>
+  <path class="cls-2" d="M807.19,789.67,686.64,721V858.51Z"></path>
+  <path class="cls-2" d="M532.9,641.7l-118.47,68L532.9,778Z"></path>
+  <path class="cls-2" d="M949.48,869.44,684.69,1020.51V873.69L949.48,721Z"></path>
+  <path class="cls-2" d="M813.21,479.45V627.36L548,778.48V632.77Z"></path>
+  <path class="cls-2" d="M1090,631.83V780.15L825.31,627.92V480.56Z"></path>
+  <path class="cls-2" d="M409.55,866.77v-145l263,150.14V1018.2Z"></path>
+  <path class="cls-2" d="M685.28,399.51l121.66,69.25L685.28,538V399.51"></path>
+  <path class="cls-2" d="M813,639.52V780L691.37,709.89Z"></path>
+  <path class="cls-2" d="M813.09,961.34v138.82L692.8,1030.75Z"></path>
+  <path class="cls-2" d="M805.64,789.67,685.09,858.51V721Z"></path>
+  <path class="cls-2" d="M1082.64,789.7,961.15,859.31v-139Z"></path>
+  <polygon class="cls-2" points="415.98 710.7 536.77 780.32 536.77 641.31 415.98 710.7"></polygon>
+</svg>
