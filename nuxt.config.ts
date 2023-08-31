@@ -5,13 +5,12 @@ export default defineNuxtConfig({
     '@/assets/css/tailwind.css',
   ],
   modules: ['@nuxtjs/tailwindcss'],
-  srcDir: 'src',
-  build: {
-    analyze: true,
-  },
-  generate: {
-    routes: '/',
+  router: {
+    options: {
+      scrollBehaviorType: 'smooth',
+    }
   },
   components: true,
+  rootDir: "src/"
 
 });
