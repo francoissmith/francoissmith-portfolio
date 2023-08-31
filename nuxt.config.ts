@@ -11,6 +11,6 @@ export default defineNuxtConfig({
     }
   },
   components: true,
-  rootDir: "src/"
+  srcDir: "src/"
 
 });
